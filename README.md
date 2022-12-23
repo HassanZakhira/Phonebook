@@ -55,8 +55,7 @@ Delete all records
 ```
 
 ## Screenshots
-(https://github.com/FadyKhalil/NTI_Group1_Assignment/tree/Hassan_Zakhira/Phonebook%20Task/Screenshots)
-
+(https://github.com/HassanZakhira/Phonebook/blob/main/README.md)
 
 ## 🔗 Links
 

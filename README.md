@@ -55,7 +55,7 @@ Delete all records
 ```
 
 ## Screenshots
-(https://github.com/HassanZakhira/Phonebook/blob/main/README.md)
+(https://github.com/HassanZakhira/Phonebook/tree/main/Screenshots)
 
 ## 🔗 Links
 
